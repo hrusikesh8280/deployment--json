@@ -58,6 +58,9 @@
 "users":[
 
 ],
+"forum":[],
+"question":[],
+"answer":[],
 "appointments":[
 		{
 	  "name": "Jane Doe",
